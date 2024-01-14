@@ -1,0 +1,3 @@
+remove flatpack takes more time add apt or snap.
+
+add snap store
