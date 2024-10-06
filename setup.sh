@@ -45,4 +45,4 @@ sudo $abcd install snap
 sudo $aa install ultimate-media-downloader 
 sudo $aa install zoom-client
 
-sudo apt install lightdm
+sudo apt install lightdm -y
