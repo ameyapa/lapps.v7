@@ -24,7 +24,7 @@ sudo $lunix install telegram-desktop -y
 sudo $lunix install rpi-imager -y
 sudo $lunix install $AB -y
 sudo $lunix install gnome-software-plugin-$AB -y
-sudo $lunix install cheese
+sudo $lunix install cheese -y
 
 sudo $AB remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 #$AB install flathub -y org.kde.okular
