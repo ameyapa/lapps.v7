@@ -1,7 +1,7 @@
 run pi os or any core os server 
 configuration file for pi os light only 
 sudo raspi-config 
-pcie sen 3 and usb surrnt limit off oppsnal 
+pcie Gen 3 and usb surrnt limit off oppsnal 
 system operation / boot auto login in that B3 
 
 reboot 
